@@ -1,0 +1,10 @@
+total 42
+drwxr-xr-x 1 YUHAN 197121     0 Apr 16 10:35 0409/
+-rw-r--r-- 1 YUHAN 197121 35823 Apr 16 10:35 LICENSE
+-rw-r--r-- 1 YUHAN 197121   165 Apr 16 10:35 README.md
+-rw-r--r-- 1 YUHAN 197121    72 Apr 16 11:07 new.txt
+-rw-r--r-- 1 YUHAN 197121   310 Apr 16 10:35 pstest.txt
+-rw-r--r-- 1 YUHAN 197121    25 Apr 16 10:35 study.txt
+-rw-r--r-- 1 YUHAN 197121   383 Apr 16 10:35 test.txt
+-rw-r--r-- 1 YUHAN 197121    19 Apr 16 10:35 test1.txt
+-rw-r--r-- 1 YUHAN 197121     0 Apr 16 11:12 work.txt
