@@ -1,5 +1,18 @@
-0409/
-LICENSE
-README.md
-new.txt
-pstest.txt
+total 59
+drwxr-xr-x 1 YUHAN 197121     0 May  7 09:29 ./
+drwxr-xr-x 1 YUHAN 197121     0 May  7 09:02 ../
+drwxr-xr-x 1 YUHAN 197121     0 May  7 10:09 .git/
+-rw-r--r-- 1 YUHAN 197121  7788 May  7 09:02 .gitignore
+drwxr-xr-x 1 YUHAN 197121     0 May  7 09:02 0409/
+drwxr-xr-x 1 YUHAN 197121     0 May  7 09:02 0423/
+drwxr-xr-x 1 YUHAN 197121     0 May  7 09:02 0430/
+drwxr-xr-x 1 YUHAN 197121     0 May  7 09:36 0507/
+-rw-r--r-- 1 YUHAN 197121 35823 May  7 09:02 LICENSE
+-rw-r--r-- 1 YUHAN 197121   165 May  7 09:02 README.md
+-rw-r--r-- 1 YUHAN 197121     0 May  7 10:10 new.txt
+-rw-r--r-- 1 YUHAN 197121   310 May  7 09:02 pstest.txt
+-rw-r--r-- 1 YUHAN 197121    25 May  7 09:02 study.txt
+-rw-r--r-- 1 YUHAN 197121   383 May  7 09:02 test.txt
+-rw-r--r-- 1 YUHAN 197121    19 May  7 09:02 test1.txt
+-rw-r--r-- 1 YUHAN 197121   115 May  7 09:02 test2.txt
+-rw-r--r-- 1 YUHAN 197121   505 May  7 09:02 work.txt
