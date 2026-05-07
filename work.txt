@@ -1,10 +1,14 @@
-total 42
-drwxr-xr-x 1 YUHAN 197121     0 Apr 16 10:35 0409/
--rw-r--r-- 1 YUHAN 197121 35823 Apr 16 10:35 LICENSE
--rw-r--r-- 1 YUHAN 197121   165 Apr 16 10:35 README.md
--rw-r--r-- 1 YUHAN 197121    72 Apr 16 11:07 new.txt
--rw-r--r-- 1 YUHAN 197121   310 Apr 16 10:35 pstest.txt
--rw-r--r-- 1 YUHAN 197121    25 Apr 16 10:35 study.txt
--rw-r--r-- 1 YUHAN 197121   383 Apr 16 10:35 test.txt
--rw-r--r-- 1 YUHAN 197121    19 Apr 16 10:35 test1.txt
--rw-r--r-- 1 YUHAN 197121     0 Apr 16 11:12 work.txt
+total 47
+drwxr-xr-x 1 YUHAN 197121     0 May  7 09:02 0409/
+drwxr-xr-x 1 YUHAN 197121     0 May  7 09:02 0423/
+drwxr-xr-x 1 YUHAN 197121     0 May  7 09:02 0430/
+drwxr-xr-x 1 YUHAN 197121     0 May  7 11:40 0507/
+-rw-r--r-- 1 YUHAN 197121 35823 May  7 09:02 LICENSE
+-rw-r--r-- 1 YUHAN 197121   165 May  7 09:02 README.md
+-rw-r--r-- 1 YUHAN 197121    48 May  7 11:40 new.txt
+-rw-r--r-- 1 YUHAN 197121   310 May  7 09:02 pstest.txt
+-rw-r--r-- 1 YUHAN 197121    25 May  7 09:02 study.txt
+-rw-r--r-- 1 YUHAN 197121   383 May  7 09:02 test.txt
+-rw-r--r-- 1 YUHAN 197121    19 May  7 09:02 test1.txt
+-rw-r--r-- 1 YUHAN 197121   115 May  7 09:02 test2.txt
+-rw-r--r-- 1 YUHAN 197121     0 May  7 11:42 work.txt
