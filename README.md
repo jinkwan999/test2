@@ -11,3 +11,5 @@ __README.MD 테스트__
 1. 두번째
 1. 세번째
 1. 네번째
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,wasm)](https://skillicons.dev)
