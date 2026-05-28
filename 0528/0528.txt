@@ -1,0 +1,22 @@
+total 65
+drwxr-xr-x 1 YUHAN 197121     0 May 28 09:01 ./
+drwxr-xr-x 1 YUHAN 197121     0 May 28 09:01 ../
+drwxr-xr-x 1 YUHAN 197121     0 May 28 09:01 .git/
+-rw-r--r-- 1 YUHAN 197121  7788 May 28 09:01 .gitignore
+drwxr-xr-x 1 YUHAN 197121     0 May 28 09:01 0409/
+drwxr-xr-x 1 YUHAN 197121     0 May 28 09:01 0423/
+drwxr-xr-x 1 YUHAN 197121     0 May 28 09:01 0430/
+drwxr-xr-x 1 YUHAN 197121     0 May 28 09:01 0507/
+drwxr-xr-x 1 YUHAN 197121     0 May 28 09:01 0514/
+drwxr-xr-x 1 YUHAN 197121     0 May 28 09:01 0521/
+drwxr-xr-x 1 YUHAN 197121     0 May 28 09:02 0528/
+-rw-r--r-- 1 YUHAN 197121 35823 May 28 09:01 LICENSE
+-rw-r--r-- 1 YUHAN 197121   165 May 28 09:01 README.md
+-rw-r--r-- 1 YUHAN 197121   134 May 28 09:01 asdf.txt
+-rw-r--r-- 1 YUHAN 197121   122 May 28 09:01 new.c
+-rw-r--r-- 1 YUHAN 197121   310 May 28 09:01 pstest.txt
+-rw-r--r-- 1 YUHAN 197121    25 May 28 09:01 study.txt
+-rw-r--r-- 1 YUHAN 197121   383 May 28 09:01 test.txt
+-rw-r--r-- 1 YUHAN 197121    19 May 28 09:01 test1.txt
+-rw-r--r-- 1 YUHAN 197121   115 May 28 09:01 test2.txt
+-rw-r--r-- 1 YUHAN 197121   717 May 28 09:01 work.txt
